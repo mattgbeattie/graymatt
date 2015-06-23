@@ -2,4 +2,6 @@ angular.module('AllTransactionsCtrl', []).controller('AllTransactionsController'
 
 	$scope.tagline = 'List of all transactions';
 
+	console.log('AllTranscationsCtrl ran');
+
 });
